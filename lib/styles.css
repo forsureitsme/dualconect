@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+@import url(http://fonts.googleapis.com/css?family=Orbitron:400,700);
+
+.navbar-fixed-bottom .navbar-inner
+{
+	min-height:0px;
+}
+.brand
+{
+	/* font-family: 'Orbitron', sans-serif !important; */
+	font-family: 'Ubuntu', sans-serif !important; 
+}
+body
+{
+	font-family: 'Ubuntu', sans-serif !important; 
+	padding-top:50px;
+	padding-bottom:10px;
+	background: #dddddd url('http://us.cdn2.123rf.com/168nwm/almagami/almagami1303/almagami130300008/18677904-light-gray-simple-seamless-pattern.jpg');
+}
+
+input
+{
+	height:25px !important;
+}
